@@ -1,0 +1,19 @@
+Fast Containment of Infectious Diseases with E-healthcare Mobile Social Internet of Things
+
+
+patient_name
+dob
+mob_no
+Address
+Area
+Type_Of_Disease
+Disease_description
+Disease_Image
+
+
+
+Infectious_Diseases
+
+
+
+name,dob,mobno,address,dtype,desc
